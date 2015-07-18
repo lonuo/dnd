@@ -86,25 +86,25 @@ ul {
 	z-index: 2;
 }
 .page1 {
-	background: #37c1e3;
+	background: #FFC8B4;
 }
 .page2 {
-	background: #009922;
+	background: #FFA488;
 }
 .page3 {
-	background: #992211;
+	background: #FF7744;
 }
 .page4 {
-	background: #ff00ff;
+	background: #FF5511;
 }
 .page5 {
-	background: #00ff00;
+	background: #E63F00;
 }
 .page6 {
-	background: #ff00ff;
+	background: #C63300;
 }
 .page7 {
-	background: #66F;
+	background: #A42D00;
 }
 #navBar {
 	z-index: 3;

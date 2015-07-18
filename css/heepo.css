@@ -18,8 +18,8 @@
 	padding: 18px;
 }
 
-.about .teamName{position: absolute;left: 20px;top: 10px;font-weight: bold;}
-.about .logo{position: absolute;right: 57px;top: 12px;}
+.about .teamName{position: absolute;left: 20px;top: 1px;font-weight: bold;}
+.about .logo{position: absolute;right: 57px;top: 5px;}
 .about .logo a{text-decoration: none;}
 
 .under{

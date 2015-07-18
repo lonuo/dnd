@@ -8,7 +8,7 @@ a:hover{ text-decoration:underline;}
 	width:410px; 
 	position:absolute;
 	left: 210px;
-	top: 85px;
+	top: 55px;
 }
 .mainbody{
 	text-align:left;
@@ -31,7 +31,7 @@ li span{
 	width:410px; 
 	position: relative;
 	left:580px;
-	bottom:465px;
+	bottom:450px;
 }
 .img{
 	height:340px;
@@ -39,5 +39,5 @@ li span{
 	display:block;
 	overflow:hidden;
 	position: relative;
-	left:35px;
+	right:40px;
 }
